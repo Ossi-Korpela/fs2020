@@ -1,0 +1,9 @@
+PUT http://localhost:3003/api/blogs/602bedbf10102d2c603bca9d
+Content-Type: application/json
+
+{
+    "title": "info has changed",
+    "author": "new",
+    "url": "wownew.com",
+    "likes": 5999
+}
