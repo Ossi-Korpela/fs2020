@@ -1,0 +1,2 @@
+MONGODB_URI=mongodb+srv://fullstack:sf2020@cluster0.n00nc.mongodb.net/phonebook-app?retryWrites=true&w=majority
+PORT=3001
